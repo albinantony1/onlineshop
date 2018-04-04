@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:order_id;datatype:int,name:product;datatype:string,name:quantity;datatype:int,name:amount;datatype:int,name:username;datatype:string,name:payment;datatype:string,name:status;datatype:string,name:date;datatype:string" />
+</info>

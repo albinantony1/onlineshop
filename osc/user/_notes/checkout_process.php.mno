@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscheck" value="name:cart_id;datatype:int,name:quantity;datatype:int,name:title;datatype:string,name:price;datatype:int" />
+</info>
